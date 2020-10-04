@@ -6,4 +6,8 @@ git tracks changes
 
 this is branch dev first.
 
+<<<<<<< HEAD
 this is master compared with dev
+=======
+creating a new branch is quick & simple.
+>>>>>>> feature1
