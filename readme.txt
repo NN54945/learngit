@@ -5,3 +5,5 @@ add a new line
 git tracks changes
 
 this is branch dev first.
+
+creating a new branch is quick AND simple.
